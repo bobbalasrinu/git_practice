@@ -9,3 +9,5 @@ return a-b
 
 
 i am loving boy always
+def div(a,b);
+return a/b
